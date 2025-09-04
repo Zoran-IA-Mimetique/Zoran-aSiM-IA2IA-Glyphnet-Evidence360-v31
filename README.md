@@ -1,3 +1,10 @@
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17053532.svg)](https://doi.org/10.5281/zenodo.17053532) 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg) 
+![Status](https://img.shields.io/badge/Status-Prototype-green.svg) 
+![IA2IA](https://img.shields.io/badge/Mode-IA%E2%86%94IA-purple.svg)
+
 # Zoran aSiM — Évidence 360° V3.1
 
 ## Descriptif 150
